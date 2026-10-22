@@ -1,0 +1,10 @@
+namespace calculator
+{
+    partial class Program
+    {
+        static void Add()
+        {
+            Console.WriteLine("Этот пункт меню пока не реализован.");
+        }
+    }
+}
