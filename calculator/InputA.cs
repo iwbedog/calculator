@@ -4,7 +4,7 @@ namespace calculator
     {
         static void InputA()
         {
-            Console.WriteLine("Этот пункт меню пока не реализован.");
+            a = ReadNumber("Введите A: ");
         }
     }
 }
